@@ -2,13 +2,23 @@
 
 **This is Memory Game With JQuery:**  
 
-**Languages and Technologies:**  
+**Languages and Technologies used:**  
 
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"></code>
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"></code>
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/f/80/fontawesome.svg"></code>
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg"></code>
+
+**How To Play:**  
+
+1- Start The Game.
+2- Keep Your Eyes on Squares that highlighted.
+3- Click on Squares that have been highlighted.
+4- In case of correct you will up to next level
+5- Enjoy <img height="24" src="https://c.tenor.com/Wq-MvpjAJksAAAAM/emojilaugh-emoji.gif">
+
+
 
 
 **ScreenShoots From Project:**  
