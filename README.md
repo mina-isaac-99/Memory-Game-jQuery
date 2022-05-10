@@ -9,7 +9,9 @@
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/f/80/fontawesome.svg"></code>
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg"></code>
-<br>
+
+
+
 **How To Play:**  
 
 1- Start The Game. <br>
