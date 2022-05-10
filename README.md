@@ -2,8 +2,6 @@
 
 **This is Memory Game With JQuery:**  
 
-<img src="https://i.imgur.com/4sklkeQ.png" height='100px'>
-
 **Languages and Technologies:**  
 
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"></code>
