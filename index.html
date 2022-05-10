@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+        <link rel="shortcut icon" type="image/x-icon" href="img/icon-2.ico">
+        <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js'></script>
+       
+        <title>Memory Game | Welcome</title>
+    </head>
+    <body>
+        <script src="js/game.js"></script>
+            <div class="loader-wrapper">    
+                <h1>Memory Game</h1>       
+                <div class="loader">                  
+                </div>
+            </div>           
+            <div id="welcome-section">
+                <div class="container">
+                    <form action="game.html" method="post" id="player_form" name="start">
+                        <h2 class="title" style="font-size:30px;"><img  src="img/welcome.svg"> Welcome</h2>
+                        <br>
+                        <h2 class="title">Memory Game</h2>
+                        <div class="input-field">
+                            <i class="fad fa-user"></i>
+                            <input type="text" id="player_name" name="player_name"  placeholder="Type Name" required ><br>
+                        </div>
+                       
+                        <input type="submit" id="btnstart" value="Start" class="btn">                        
+                        <a href="#team" id="openTeam" class="team">Made By <i class="fa fa-heart" style="color:red"></i> Mina Isaac </a>
+                    </form>
+                </div>
+            </div> 
+            <div id="our-team">
+                <p>Developed By:</p>
+                <h3>Mina Isaac</h3>
+                <h4><a href="https://www.github.com/mina-isaac-99"><i class="fab fa-github"></i> mina-isaac-99</a></h4>
+            </div>
+
+            <script>
+            $(document).ready(function() 
+            {
+                $("#openTeam").click(function() 
+                {
+                    dialog_Login.dialog("open")
+                })
+                var dialog_Login = $("#our-team").dialog(
+                {
+                    modal: true,
+                    autoOpen: false,
+                    title: "Developed By",
+                    buttons: {
+                        ok: function() {
+                            dialog_Login.dialog("close")
+                        }
+                    }
+                });
+
+            });
+        </script>
+    </body>
+</html>

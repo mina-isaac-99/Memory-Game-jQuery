@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+body
+{
+	
+	font-family: "Poppins";
+}
+
+.loader-wrapper {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  z-index: 9999;
+}
+
+.loader {
+  height: 5px;
+  background-color: #346DF0;
+  position: absolute;
+  z-index: 9999;
+  border-radius:6px;
+}
+.loader-wrapper h1 {
+ text-align: center;
+ transform: translateY(320%)
+ 
+}
+#start
+{
+	font-size: 23px;
+	text-align: center;
+	font-weight: 500;
+
+	text-decoration: none;
+
+}
+#level
+{
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+  padding-top:50px;
+}
+#colors {
+
+	overflow: hidden;
+	width: 380px;
+	/* left: 50%; */
+	position: relative;
+  margin: auto;
+}
+#colors li 
+{
+	background-color: red;
+	color: black;
+	cursor: auto;
+	font-size: 30px;
+	line-height: 100px;
+	list-style-position: inside;
+	list-style-type: none;
+	height: 150px;
+	float: left;
+	width: 150px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#colors li.green 
+{ 
+	background: linear-gradient(to right, #134e5e, #71b280);
+}
+#colors li.blue 
+{
+	background: linear-gradient(to right, #00d2ff, #3a7bd5);
+}
+#colors li.yellow 
+{
+	background: linear-gradient(to right, #ff5f6d, #ffc371);
+}
+#colors li.on 
+{ 
+	background: linear-gradient(to right, #141e30, #243b55);
+}
+p#start 
+{ 
+	cursor: pointer; color: rgb(15, 139, 255); 
+}
+p#start:hover 
+{ 
+	text-decoration: none; 
+}
+.playing #colors li 
+{
+	cursor: pointer;
+}
+.game-over #colors li 
+{
+	opacity: 0.6;
+}
+.emoji
+{
+ width: 29px ; 
+ height: 29px;
+}
+/*-----------------login--------------------------*/
+#our-team 
+{
+	font-family: "Poppins";
+	text-align: center;
+}
+.white
+{
+	background-color: white;
+}
+.gredients
+{
+	background: linear-gradient(to right, #ffffff, #d2ddec);
+}
+#welcome-section img
+{
+    margin-bottom:-10px;
+    width:40px ;  height:40px;
+}
+.container 
+{
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  width: 50%;
+}
+
+.team
+{
+  margin:0 auto;
+  text-decoration: none;
+  color: #acacac;
+  padding-top: 10px;
+}
+form 
+{
+	
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+form .error {
+  color: #ff0000;
+  margin-left:-4px;
+}
+
+
+.title 
+{
+  font-size: 2.2rem;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.input-field 
+{
+ 
+  padding-left: 19px;
+  max-width: 380px;
+  width: 100%;
+  background-color: #f0f0f0;
+  margin: 10px 0;
+  height: 55px;
+  border-radius: 55px;
+}
+
+.input-field i 
+{
+  text-align: center;
+  line-height: 55px;
+  color: #acacac;
+  font-size: 1.1rem;
+}
+
+.input-field input 
+{
+  font-family: "Poppins";
+  padding-left: 5px;;
+  background: none;
+  outline: none;
+  border: none;
+  line-height: 1;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #333;
+  margin-right: 20px;
+}
+
+.input-field input::placeholder 
+{
+  color: #aaa;
+  font-weight: 500;
+}
+
+.btn 
+{
+  width: 150px;
+  background-color: #5995fd;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+ 
+}
+.btn:hover 
+{
+  background-color: #688cca;
+}
