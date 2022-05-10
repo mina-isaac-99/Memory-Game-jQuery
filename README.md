@@ -15,7 +15,7 @@
 1- Start The Game. <br>
 2- Keep Your Eyes on Squares that highlighted. <br>
 3- Click on Squares that have been highlighted.  <br>
-4- In case of correct you will up to next level  <br>
+4- In case of correct you will go to next level  <br>
 5- Enjoy <img height="24" src="https://c.tenor.com/Wq-MvpjAJksAAAAM/emojilaugh-emoji.gif">  <br>
 
 
