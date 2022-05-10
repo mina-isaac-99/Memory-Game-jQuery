@@ -30,4 +30,4 @@
 <img src="https://i.imgur.com/Kk7oiY7.jpg" width="300px"> <br><br><br>
 <br><br>
 
-**Hopes You Enjoy The Game**  <img height="30" src="https://openmoji.org/data/color/svg/2764.svg">    
+<img height="30" src="https://openmoji.org/data/color/svg/2764.svg">    **Hopes You Enjoy The Game**  <img height="30" src="https://openmoji.org/data/color/svg/2764.svg">    
