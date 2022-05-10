@@ -18,7 +18,7 @@
 2- Keep Your Eyes on Squares that highlighted. <br>
 3- Click on Squares that have been highlighted.  <br>
 4- In case of correct you will go to next level  <br>
-5- Enjoy <img height="24" src="https://c.tenor.com/Wq-MvpjAJksAAAAM/emojilaugh-emoji.gif">  <br>
+5- Enjoy <img height="24" src="https://openmoji.org/data/color/svg/1F600.svg">  <br>
 
 <br><br>
 
