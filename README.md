@@ -10,7 +10,7 @@
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/f/80/fontawesome.svg"></code>
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg"></code>
 
-<br><br><br>
+<br><br>
 
 **How To Play:**  
 
@@ -20,7 +20,7 @@
 4- In case of correct you will go to next level  <br>
 5- Enjoy <img height="24" src="https://c.tenor.com/Wq-MvpjAJksAAAAM/emojilaugh-emoji.gif">  <br>
 
-<br><br><br>
+<br><br>
 
 
 **ScreenShoots From Project:**  
