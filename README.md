@@ -11,7 +11,7 @@
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg"></code>
 
 
-**ScreenShoots:**  
+**ScreenShoots From Project:**  
 <br>
 <img src="https://i.imgur.com/5grJP5q.jpg" width="300px"> <br><br>
 <img src="https://i.imgur.com/MayuB4O.png" width="300px"> <br><br>
