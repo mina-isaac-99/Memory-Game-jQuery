@@ -20,6 +20,7 @@ $(function() {
 		form.submit();
 		var player_name = $('#player_name').val();
 		localStorage.setItem('playerName', player_name);
+		window.location.href='game.html';
 	  }
 	  
 	});
