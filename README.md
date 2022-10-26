@@ -15,7 +15,6 @@
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/f/80/fontawesome.svg"></code>
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/j/45/jquery.svg"></code>
 
-<br><br>
 
 **How To Play:**  
 
@@ -25,14 +24,10 @@
 4- In case of correct you will go to next level  <br>
 5- Enjoy <img height="24" src="https://openmoji.org/data/color/svg/1F600.svg">  <br>
 
-<br><br>
-
 
 **ScreenShoots From Project:**  
 <br>
 <img src="https://i.imgur.com/5grJP5q.jpg" width="300px"> <br><br>
 <img src="https://i.imgur.com/MayuB4O.png" width="300px"> <br><br>
 <img src="https://i.imgur.com/Kk7oiY7.jpg" width="300px"> <br><br><br>
-<br><br>
 
-<img height="30" src="https://openmoji.org/data/color/svg/2764.svg">    **Hopes You Enjoy The Game**  <img height="30" src="https://openmoji.org/data/color/svg/2764.svg">    
